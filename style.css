@@ -1,0 +1,240 @@
+body {
+    background-color: seashell;
+}
+header h1{
+    text-align:center;
+     color:sienna; 
+     font-family: consolas;
+}
+header a{
+    color: saddlebrown;
+    text-decoration: none;
+}
+.p1{
+    text-align: center; 
+    font-size: 20px;
+     font-family: consolas;
+}
+.p2{
+    text-align:center;
+    color: peru; 
+    font-size: 23px;
+     font-family: consolas;
+}
+.p3{
+    text-align:center;
+    color: peru;
+    font-size: 20px;
+    font-family: consolas
+}
+main h1{
+    color:sienna; 
+    font-family: consolas;
+    font-size: 23px;
+}
+.p4{
+    color: peru;
+    font-family: consolas;
+}
+main h2{
+    color:sienna; 
+    font-family: consolas; 
+    font-size: 23px;
+}
+.p5{
+    color: peru;
+     font-family: consolas;
+}
+main h3{
+    color:sienna;
+     font-family: consolas; 
+     font-size: 23px;
+}
+.p6{
+    color: peru;
+     font-family: consolas;
+}
+.p7{
+    color: peru;
+     font-family: consolas;
+}
+.p8{
+    color: peru;
+     font-family: consolas;
+}
+.p9{
+    color: peru;
+     font-family: consolas;
+}
+.p10{
+    color: peru;
+     font-family: consolas;
+}
+.p11{
+    color: peru;
+     font-family: consolas;
+}
+.p12{
+    color: peru;
+     font-family: consolas;
+}
+.p13{
+    color: peru;
+     font-family: consolas;
+}
+.p14{
+    color: peru;
+     font-family: consolas;
+}
+.p15{
+    color: peru;
+     font-family: consolas;
+}
+span{
+    color: sienna;
+}
+main h4{
+    color:sienna;
+     font-family: consolas; 
+     font-size: 23px;
+}
+.p16{
+    color: peru;
+     font-family: consolas
+}
+main h5{
+    color:sienna;
+     font-family: consolas;
+      font-size: 23px
+}
+.p17{
+    color: peru; 
+    font-family: consolas
+}
+main h6{
+    color:sienna;
+     font-family: consolas;
+      font-size: 23px
+}
+.p18{
+    color: peru;
+     font-family: consolas
+}
+main h7{
+    color:sienna;
+     font-family: consolas;
+      font-size: 20px
+}
+.p19{
+    color: peru; 
+    font-family: consolas
+}
+.p20{
+    color: peru;
+     font-family: consolas
+}
+main h8{
+    color:sienna; 
+    font-family: consolas; 
+    font-size: 20px
+}
+.p21{
+    color: peru;
+     font-family: consolas
+}
+.p22{
+    color: peru; 
+    font-family: consolas
+}
+main h9{
+    color:sienna; 
+    font-family: consolas; 
+    font-size: 20px
+}
+.p23{
+    color: peru; 
+    font-family: consolas
+}
+.p24{
+    color: peru; 
+    font-family: consolas
+}
+main h10{
+    color:sienna; 
+    font-family: consolas; 
+    font-size: 20px
+}
+.p25{
+    color: peru; 
+    font-family: consolas
+}
+.p26{
+    color: peru; 
+    font-family: consolas
+}
+.p27{
+    color: peru; 
+    font-family: consolas
+}
+.p28{
+    color: peru; 
+    font-family: consolas
+}
+main h11{
+     color:sienna; 
+    font-family: consolas; 
+    font-size: 20px
+}
+.p29{
+    color: peru; 
+    font-family: consolas
+}
+.p30{
+    color: peru; 
+    font-family: consolas
+}
+main h12{
+    color:sienna; 
+    font-family: consolas; 
+    font-size: 20px
+}
+.p31{
+    color: peru; 
+    font-family: consolas
+}
+.p32{
+    color: peru; 
+    font-family: consolas
+}
+main h13{
+    color:sienna; 
+    font-family: consolas; 
+    font-size: 20px
+}
+.p33{
+    color: peru; 
+    font-family: consolas
+}
+.p34{
+    color: peru; 
+    font-family: consolas
+}
+footer h1{
+    color: peru;
+     font-family: consolas; 
+     font-size: 20px; 
+     text-align:center;
+}
+.p35{
+    text-align: center;
+}
+footer a{
+    color: saddlebrown;
+    font-family: consolas;
+    color: saddlebrown;
+    text-decoration: none;
+}
+img{
+    border: 1px;
+    border-radius: 10px;
+}
